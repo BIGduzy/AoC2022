@@ -1,0 +1,6 @@
+CompileFlags:
+  Remove: -mthumb-interwork
+  Add: -fmax-errors=0, -header-insertion=never
+
+InlayHints:
+  Enabled: False
